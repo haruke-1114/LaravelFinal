@@ -20,11 +20,9 @@ class Cart extends Model
     public $timestamps = false;
 
     protected $fillable = [
-        'id',
-        'name',
-        'num',
-        'cost',
-        'billID'
+        'bill_uuid',
+        'bill_total',
+        'bill_date',
     ];
 
 
