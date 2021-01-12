@@ -87,6 +87,7 @@
         var hh = date.getHours();
         var mn = date.getMinutes();
         var ss = date.getSeconds();
+        var onedate = hh.toLocaleString('chinese', { hour12: false }); 
         var now = yy + "-" + mm + "-" + dd + " " + hh + ":" + mn + ":" + ss;
 
         var bill = {

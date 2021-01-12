@@ -10,6 +10,7 @@
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900" />
   <link rel="stylesheet" href="/resources/css/default.css" />
   <link rel="stylesheet" href="/resources/css/fonts.css" />
+  <script src="https://cdn.jsdelivr.net/npm/echarts@4.7.0/dist/echarts.min.js"></script>
   <link rel="Shortcut Icon" type="image/x-icon" href="/resources/images/smlogo.png">
 
 

@@ -93,4 +93,8 @@ if ($result->num_rows > 0) {
 
 mysqli_close($link);
 ?>
+
+
+<?php require_once 'chart.php' ?>
+
 <?php require_once 'footer.php' ?>
