@@ -8,7 +8,7 @@
   <div class="title">
     <h2>CLHL About us</h2>
   </div>
-  <div>
+  <div class="about">
     <p> 各式各樣的海裡活動 </p>
     <p>有吃有玩    跟著 <b>洗咧哈囉</b> 一起吃吃玩玩</p>
     <p>想不到好玩的 <b>洗咧</b>幫你想 </p>

@@ -40,7 +40,6 @@
     });
 
     function pushCart() { //下單
-        //無法建置bill
 
         for (var i = 0; i < list.length / 4; i++) {
             // var id = $("tr:last-child .id").text();
